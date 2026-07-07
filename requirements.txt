@@ -1,0 +1,25 @@
+# 2022년 수업 프로젝트에서 사용한 라이브러리입니다. 버전은 고정하지 않았습니다.
+
+# 데이터 수집
+selenium
+beautifulsoup4
+requests
+
+# 형태소 분석·전처리
+konlpy
+nltk
+
+# 토픽 모델링
+gensim
+scikit-learn
+pyLDAvis
+
+# 데이터 처리
+pandas
+numpy
+
+# 시각화
+matplotlib
+seaborn
+wordcloud
+pillow
