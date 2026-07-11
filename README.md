@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/python-3.10-3776AB?logo=python&logoColor=white)](https://www.python.org) [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 
-국민대학교 텍스트 데이터 분석 수업에서 국민대·정릉시장 주변 맛집 리뷰를 수집하고 LSA·LDA 토픽 모델링을 수행한 개인 프로젝트입니다. 크롤링과 전처리를 다룬 중간 과제(Part-01)와 토픽 모델링을 다룬 기말 과제(Part-02)로 이어집니다.
+국민대학교 텍스트 데이터 분석 수업에서 국민대·정릉시장 주변 맛집 리뷰를 수집하고 LSA·LDA 토픽 모델링을 수행한 개인 프로젝트입니다. 크롤링과 전처리를 다룬 중간 과제(Part-01)에서 토픽 모델링을 다룬 기말 과제(Part-02)로 이어집니다.
 
 ## 개요
 
